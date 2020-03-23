@@ -1,7 +1,7 @@
 # Add your code here
 class Dog
 
-  attr_accersor :name
+  attr_accerssor :name
 
 @@all = []
 
