@@ -20,10 +20,9 @@ class Dog
     @@all.clear
   end
 
-def self.print_all
-  @@all.print do |dog|
-    puts dog.print_all
+def save
+  @@all << self
   end
-end
+
 
 end
