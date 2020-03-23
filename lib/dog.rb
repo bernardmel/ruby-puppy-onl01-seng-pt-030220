@@ -13,7 +13,7 @@ def self.all
 end
 
 def self.clear_all
-  @@ll.clear
+  @@all.clear
 end
 
 end
