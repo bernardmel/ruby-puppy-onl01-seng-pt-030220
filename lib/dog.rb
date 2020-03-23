@@ -13,12 +13,7 @@ def self.all
 end
 
 def self.clear_all
-  @@all << clear_all
+  @@ll.clear
 end
-
-def clear_all.self
-  @@all
-end
-
 
 end
