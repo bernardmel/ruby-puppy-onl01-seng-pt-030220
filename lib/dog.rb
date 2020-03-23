@@ -1,8 +1,6 @@
 # Add your code here
 class Dog
 
-  attr_accersor :name
-
 @@all = []
 
 def initialize(name)
